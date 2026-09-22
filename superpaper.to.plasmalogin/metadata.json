@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "R3CONN3R, duck.ai"
+            }
+        ],
+        "Description": "Automatically displays Superpaper dual-monitor crops",
+        "Id": "superpaper.to.plasmalogin",
+        "License": "MIT",
+        "Name": "Superpaper Dual Wallpaper to plasmalogin",
+        "Version": "1.0"
+    }
+}
